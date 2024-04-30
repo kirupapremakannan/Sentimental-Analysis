@@ -1,4 +1,4 @@
-# Sentiment Analysis using LSTM💡📁
+# Sentiment Analysis using LSTM💡
 
 ## Introduction
 

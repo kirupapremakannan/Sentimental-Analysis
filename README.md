@@ -2,7 +2,7 @@
 
 ## Download from 
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
-This includes the imdb dataset
+.This includes the imdb dataset
 
 
 ## Introduction

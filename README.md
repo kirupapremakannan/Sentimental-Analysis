@@ -1,5 +1,9 @@
 # Sentiment Analysis using LSTM💡
 
+## Download from
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+
 ## Introduction
 
 Sentiment analysis plays a crucial role in understanding public opinion, customer feedback, and social media sentiment. Leveraging deep learning techniques, particularly Long Short-Term Memory (LSTM) networks, enables us to capture complex patterns in textual data and extract sentiment information effectively.

@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-review
 
 ## Introduction
 
-Sentiment analysis plays a crucial role in understanding public opinion, customer feedback, and social media sentiment. Leveraging deep learning techniques, particularly Long Short-Term Memory (LSTM) networks, enables us to capture complex patterns in textual data and extract sentiment information effectively.making vital and intricate details from a data to know the sentiment of  text which involves effective learning of data which analyzises the sequence of data in tokens iand so on this project speaks about how a machine can learn from data.
+Sentiment analysis plays a crucial role in understanding public opinion, customer feedback, and social media sentiment. Leveraging deep learning techniques, particularly Long Short-Term Memory (LSTM) networks, enables us to capture complex patterns in textual data and extract sentiment information effectively.making vital and intricate details from a data to know the sentiment of  text which involves effective learning of data which analyzises the sequence of data in tokens and so on this project speaks about how a machine can learn from data.
 
 ## Dataset
 

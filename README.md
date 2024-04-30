@@ -38,6 +38,5 @@ Continued research and development in the field of deep learning offer numerous 
 
 ## Contributing
 
-Contributions to this project are encouraged and welcomed. Whether it's proposing new features, fixing bugs, or improving documentation, all contributions are valuable. Please refer to the CONTRIBUTING.md file for guidelines on how to contribute to the project.
-
+Contributions to this project are encouraged and welcomed. Whether it's proposing new features, fixing bugs, or improving documentation, all contributions are valuable. 
 
